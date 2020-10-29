@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>My friend ITSolution - Provider ,Consoulstant And Link Development IT Solution</title>
+	<title>Minh Nguyen PVC Product - Provider, Produce And Machining</title>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	
@@ -24,7 +24,7 @@
 		<div class="container">
 			<div class="row justify-content-between">
 				<div class="col-12 col-md d-flex align-items-center">
-					<p class="mb-0 phone"><span class="mailus">{{__('home_page.contact_phone')}}</span> <a href="#">+84 0908 838 987</a> or <span class="mailus">email us:</span> <a href="#">khuongnv1979@gmail.com</a></p>
+					<p class="mb-0 phone"><span class="mailus">{{__('home_page.contact_phone')}}</span> <a href="#">+84 091 145 3449</a> or <span class="mailus">email us:</span> <a href="#">ctyminhnguyen12@gmail.com</a></p>
 				</div>
 				<div class="col-12 col-md d-flex justify-content-md-end">
 					<div class="social-media">
@@ -41,7 +41,7 @@
 	</div>
 	<nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
 		<div class="container">
-			<a class="navbar-brand" href="index.html">My friend<span> ITsolution</span></a>
+			<a class="navbar-brand" href="./"><img src= "images/minhnguyen_logo.png" /></a>
 			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
 				<span class="oi oi-menu"></span> Menu
 			</button>
@@ -50,11 +50,11 @@
 				<ul class="navbar-nav ml-auto">
 					<li class="nav-item active"><a href="./" class="nav-link">Trang Chủ</a></li>
 					<li class="nav-item"><a href="/about" class="nav-link">Giới Thiệu</a></li>
-					<li class="nav-item"><a href="/services" class="nav-link">Dịch Vụ</a></li>
-					<li class="nav-item"><a href="/contract-process" class="nav-link">Quy Trình Hợp Tác</a></li>
-					<li class="nav-item"><a href="/creative-ideas" class="nav-link">Ý Tưởng Kinh Doanh</a></li>
+					<li class="nav-item"><a href="/products" class="nav-link">Sản Phẩm</a></li>
+					<li class="nav-item"><a href="/contract-process" class="nav-link">Quy Trình Đơn Hàng</a></li>
+					<li class="nav-item"><a href="/customer-service" class="nav-link">Chăm sóc khách hàng</a></li>
 					<li class="nav-item"><a href="/contact" class="nav-link">Liên Lạc</a></li>
-					<li class="nav-item cta"><a href="/consultant" class="nav-link">Tư Vấn Miễn Phí</a></li>
+					<li class="nav-item cta"><a href="/shopping" class="nav-link">Siêu Thị Bán Lẻ</a></li>
 
 				</ul>
 			</div>
@@ -67,10 +67,10 @@
 				<div class="col-md-8 ftco-animate mt-5 pt-md-5" data-scrollax=" properties: { translateY: '70%' }">
 					<div class="row">
 						<div class="col-md-12">
-							<p class="mb-5 pl-md-5 line" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">My friend hướng đến trở thành nhà cung cấp, tư vấn và hợp tác phát triễn các dịch vụ công nghệ thông tin với phương châm lợi ích của bạn là sự thành công của chúng tôi.</p>
+							<p class="mb-5 pl-md-5 line" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">Minh Nguyen PVC hướng đến trở thành nhà cung cấp, sản xuất và gia công các sản phẩm nhựa dân dụng, công nghiệp với phương châm lợi ích của bạn là sự thành công của chúng tôi.</p>
 						</div>
 					</div>
-					<h1 class="mb-4" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">Kinh nghiệm về <br> các dịch vụ công nghệ thông tin. Không chuyên không làm.</h1>
+					<h1 class="mb-4" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">Trên 20 năm Kinh nghiệm về <br> cung cấp, sản xuất và gia công các sản phẩm nhựa dân dụng, công nghiệp. Không chuyên không làm.</h1>
 					<!--p><a href="#" class="btn btn-primary px-4 py-3">Read more</a></p-->
 				</div>
 			</div>
@@ -86,7 +86,7 @@
 								<div class="line"></div>
 								<div class="icon"><span class="flaticon-bolt"></span></div>
 								<div class="media-body">
-									<h3 class="heading mb-3">Tư Vấn Công Nghệ Thông Tin</h3>
+									<h3 class="heading mb-3">Sản xuất sản phẩm nhựa</h3>
 								</div>
 							</div>      
 						</div>
@@ -96,7 +96,7 @@
 								<div class="line"></div>
 								<div class="icon"><span class="flaticon-light-bulb"></span></div>
 								<div class="media-body">
-									<h3 class="heading mb-3">Web Hosting & Domain Miễn Phí</h3>
+									<h3 class="heading mb-3">Gia công sản phẩm nhựa</h3>
 								</div>
 							</div>      
 						</div>
@@ -105,7 +105,7 @@
 								<div class="line"></div>
 								<div class="icon"><span class="flaticon-cyber"></span></div>
 								<div class="media-body">
-									<h3 class="heading mb-3">An Ninh Mạng &amp; Phát Triễn Ứng Dụng Web</h3>
+									<h3 class="heading mb-3">Cung cấp sản phẩm nhựa cho Doanh Nghiệp</h3>
 								</div>
 							</div>      
 						</div>
@@ -114,7 +114,7 @@
 								<div class="line"></div>
 								<div class="icon"><span class="flaticon-cyber"></span></div>
 								<div class="media-body">
-									<h3 class="heading mb-3">Thương Mại Điện Tử</h3>
+									<h3 class="heading mb-3">Siêu thị bán lẻ các sản phẩm nhựa</h3>
 								</div>
 							</div>      
 						</div>
@@ -123,7 +123,7 @@
 								<div class="line"></div>
 								<div class="icon"><span class="flaticon-cyber"></span></div>
 								<div class="media-body">
-									<h3 class="heading mb-3">Quảng Cáo</h3>
+									<h3 class="heading mb-3">Cung cấp sản phẩm nhựa dùng quảng cáo</h3>
 								</div>
 							</div>      
 						</div>
@@ -276,7 +276,7 @@
 		<div class="container">
 			<div class="row justify-content-center pb-5">
 				<div class="col-md-12 heading-section text-center ftco-animate">
-					<h2 class="mb-4">Sứ Mạng Của <span>My friend</span></h2>
+					<h2 class="mb-4">Sứ Mạng Của <span>Minh Nguyen PVC</span></h2>
 				</div>
 			</div>
 			<div class="row">
@@ -299,7 +299,7 @@
 							<img src="images/work-2.jpg" class="img-fluid" alt="Colorlib Template">
 						</div>
 						<div class="text text-center">
-							<h3><a href="project.html">Cải tiến quy trình hợp tác. Đảm bảo sự công bằng</a></h3>
+							<h3><a href="project.html">Phát triễn và cải tiến bộ phận Customer service để đảm bảo lợi ích khách hàng và sự công bằng</a></h3>
 						</div>
 						<a href="images/work-2.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
 							<span class="fa fa-expand"></span>
@@ -312,7 +312,7 @@
 							<img src="images/work-3.jpg" class="img-fluid" alt="Colorlib Template">
 						</div>
 						<div class="text text-center">
-							<h3><a href="project.html">Đảm bảo lợi ích của đối tác là đảm bảo sự phát triễn của My friend</a></h3>
+							<h3><a href="project.html">Đảm bảo lợi ích của đối tác là đảm bảo sự phát triễn của Minh Nguyen PVC</a></h3>
 						</div>
 						<a href="images/work-3.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
 							<span class="fa fa-expand"></span>
@@ -325,7 +325,7 @@
 							<img src="images/work-4.jpg" class="img-fluid" alt="Colorlib Template">
 						</div>
 						<div class="text text-center">
-							<h3><a href="project.html">Tạo ra những ý tưởng mới và cùng hợp tác phát triễn ý tưởng, tạo ra dịch vụ hữu ích </a></h3>
+							<h3><a href="project.html">Tạo ra những ý tưởng mới để luôn có thể tạo ra những sản phẩm hữu ích </a></h3>
 						</div>
 						<a href="images/work-4.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
 							<span class="fa fa-expand"></span>
